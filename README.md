@@ -1,12 +1,12 @@
 ### Olá 👋
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="http://pa1.narvii.com/6502/0b33f08f63ed744107edc462c3a340c8cdae5a40_00.gif" />
 
 - 💻 Exploring new developing. 
-- ✍️ Escrevendo minhas próprias histórias e tornando minha vida melhor.
+- ✍️ Writing my own stories and making my life better.
 
 📌 From [Jeth](https://github.com/Jeth-Discord)
 
-<a href="https://github.com/SolarisGC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikii-Discord&theme=Architect&show_icons=true" />
+<a href="https://github.com/Nikii-Discord">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikii-Discord&theme=midnight&show_icons=true" />
 </a>
