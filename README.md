@@ -5,7 +5,7 @@
 - 💻 Exploring new developing. 
 - ✍️ Writing my own stories and making my life better.
 
-📌 Staff in [Jeth](https://github.com/Jeth-Discord)
+📌 Job in [Jeth](https://github.com/Jeth-Discord)
 
 <a href="https://github.com/Nikii-Discord">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikii-Discord&theme=midnight&show_icons=true" />
