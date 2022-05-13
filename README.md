@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-<img width="35%" align="right" alt="Github" src="http://pa1.narvii.com/6502/0b33f08f63ed744107edc462c3a340c8cdae5a40_00.gif" />
+<img width="35%" align="right" alt="Github" src="https://www.picng.com/upload/madagascar_penguins/png_madagascar_penguins_75652.png" />
 
 - 💻 Exploring new developing. 
 - ✍️ Writing my own stories and making my life better.
