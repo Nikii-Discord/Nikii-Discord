@@ -5,7 +5,7 @@
 - 💻 Exploring new developing. 
 - ✍️ Writing my own stories and making my life better.
 - 💘 Fan Cristiano Araújo [✨ 1986 - 2015]
-- 📌 Job in [Jeth](https://github.com/Jeth-Discord)
+- 📌 Job in [Jeth](https://github.com/Jeth-Discord) and Emerald
 
 ![Nikii-Discord github stats](https://github-readme-stats.vercel.app/api?username=Nikii-Discord&show_icons=true&title_color=f58742&icon_color=f58742&text_color=9f9f9f&bg_color=151515)
 
