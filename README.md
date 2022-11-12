@@ -6,7 +6,7 @@
 - 💻 Exploring new developing. 
 - ✍️ Writing my own stories and making my life better.
 - 💘 Fan Cristiano Araújo [✨ 1986 - 2015]
-- 📌 Job in [Moderadora](https://github.com/ModerandoDiscord/Moderadora) (I do not work anymore) and [Emerald](https://github.com/richaardev/Emerald) (I do not work anymore) 
+- 📌 Job in [Jeth](https://github.com/KorrdsTech/Jeth)
 
 ![Nikii-Discord github stats](https://github-readme-stats.vercel.app/api?username=Nikii-Discord&show_icons=true&title_color=f58742&icon_color=f58742&text_color=9f9f9f&bg_color=151515)
 
