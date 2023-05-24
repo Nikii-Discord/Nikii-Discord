@@ -7,6 +7,7 @@
 - 💘 Fan Cristiano Araújo [✨ 1986 - 2015]
 - 📌 Portfólio: [Jeth](https://github.com/KorrdsTech/Jeth)
 - 🖥 Ryzen 5 5600, RX560, 16GB 3200MhZ, 1 TB SSD
+
 ![Nikii-Discord github stats](https://github-readme-stats.vercel.app/api?username=Nikii-Discord&show_icons=true&title_color=f58742&icon_color=f58742&text_color=9f9f9f&bg_color=151515)
 
 <hr>
