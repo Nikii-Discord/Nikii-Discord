@@ -7,8 +7,7 @@
 - 📌 Portfólio: [Jeth](https://github.com/KorrdsTech/Jeth)
 - 🖥 Ryzen 5 5600, RTX 4060, 16GB 3200MhZ, 1 TB SSD
 
-![Nikii-Discord github stats](https://github-readme-stats.vercel.app/api?username=Nikii-Discord&show_icons=true&title_color=f58742&icon_color=f58742&text_color=9f9f9f&bg_color=151515)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <hr>
 
   <img src="https://lanyard.cnrad.dev/api/1121597531604914258" width="450px">
